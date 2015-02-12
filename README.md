@@ -17,7 +17,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 * Monday 6:00pm: Introductory lecture on HTML/CSS
 * Tuesday 6:00pm: Guest lecture by Miles Matthias, CTO of EquityEats
   * [Miles' Linkedin](www.linkedin.com/in/milesmatthias/en)
-*Thursday 6:00pm: Workshop on HTML/CSS
+* Thursday 6:00pm: Workshop on HTML/CSS
 
 ### [Week 2: Feb 8 - Feb 14](https://github.com/IgnitionBoulder/2015week2)
 * Monday 6:00pm: Introductory lecture on Ruby
