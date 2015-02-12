@@ -8,7 +8,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
   * 6:00pm - 7:30pm:  Lecture and work period  
   * 6:00pm:  previous week's homework due
 * Tuesday or Wednesday
-  * 6:00pm - 7:30pm:  Guest lecture
+  * 6:00pm - 7:00pm:  Guest lecture
 * Thursday
   * 4:00pm - 6:00pm: Kelton's office hours  
   * 6:00pm - 7:30pm: Lecture and work period  
