@@ -25,7 +25,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
   * [Daniel's Linkedin](http://www.linkedin.com/in/danielzacek/en)
 * Thursday 6:00pm: Workshop on Ruby
 
-### Week 3: Feb 15 - Feb 21
+### [Week 3: Feb 15 - Feb 21](https://github.com/IgnitionBoulder/Ignition2015_week3)
 * Monday 6:00pm: Introductory lecture on Rails
 * Tuesday 6:00pm: Guest lecture this week - [Boulder Ruby Meetup](http://www.meetup.com/boulder_ruby_group/events/220076556/) 
 * Thursday 6:00pm: Workshop on Rails
@@ -52,8 +52,10 @@ Information to help you plan and coordinate your involvement in Ignition 2015
   * [Ben's LinkedIn](http://www.linkedin.com/in/benbuie/en)  
 * Thursday 6:00pm: Workshop on Javascript
 
-### Week 8: Mar 22 - Mar 28
+### SPRING BREAK
 
-### Week 9: Mar 29 - Apr 4
+### Week 8: Mar 29 - Apr 4
 
-### Week 10: Apr 5 - Apr 11
+### Week 9: Apr 5 - Apr 11
+
+### Week 10: Apr 12 - Apr 18
