@@ -30,7 +30,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 * Tuesday 6:00pm: Guest lecture this week - [Boulder Ruby Meetup](http://www.meetup.com/boulder_ruby_group/events/220076556/) 
 * Thursday 6:00pm: Workshop on Rails
 
-### Week 4: Feb 22 - Feb 28
+### [Week 4: Feb 22 - Feb 28](https://github.com/IgnitionBoulder/Ignition2015_week4)
 * Monday 6:00pm: Introductory lecture on basic Rails testing
 * Wednesday 6:00pm: Guest lecture by Paul McReynolds, CTO of Conspire
   * [Paul's LinkedIn](http://www.linkedin.com/in/pauljm/en)
