@@ -36,7 +36,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
   * [Paul's LinkedIn](http://www.linkedin.com/in/pauljm/en)
 * Thursday 6:00pm: Workshop on basic Rails testing
 
-### Week 5: Mar 1 - Mar 7
+### [Week 5: Mar 1 - Mar 7](https://github.com/IgnitionBoulder/Ignition2015_week5)
 * Monday 6:00pm: Introductory lecture on Rails MVC
 * Tuesday 6:00pm: Guest lecture by Cameron Holck
 * Thursday 6:00pm: Workshop on Rails MVC
