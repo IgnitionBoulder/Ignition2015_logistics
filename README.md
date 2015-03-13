@@ -55,7 +55,14 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 ### SPRING BREAK
 
 ### Week 8: Mar 29 - Apr 4
+* Monday 6:00pm: Introductory lecture on Bootstrap 
+* Tuesday 6:00pm: Guest Lecture by Evan Moore, gSchool student
+* Thursday 6:00pm: Workshop on Bootstrap 
 
 ### Week 9: Apr 5 - Apr 11
+* Monday 6:00pm: Start Group Projects
+* Thursday 6:00pm: Group Projects
 
 ### Week 10: Apr 12 - Apr 18
+* Monday 6:00pm: Group Projects
+* Thursday 6:00pm: Group Projects  
