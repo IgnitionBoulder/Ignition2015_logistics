@@ -41,7 +41,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 * Tuesday 6:00pm: Guest lecture by Cameron Holck
 * Thursday 6:00pm: Workshop on Rails MVC
 
-### Week 6: Mar 2 - Mar 14
+### [Week 6: Mar 2 - Mar 14](https://github.com/IgnitionBoulder/Ignition2015_week6)
 * Monday 6:00pm: Introductory lecture on Rails Models
 * Wednesday 6:00pm: Guest lecture by Ben Eddy, Senior Developer at Foraker Labs
 * Thursday 6:00pm: Workshop on Rails Models
