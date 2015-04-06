@@ -46,7 +46,7 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 * Wednesday 6:00pm: Guest lecture by Ben Eddy, Senior Developer at Foraker Labs
 * Thursday 6:00pm: Workshop on Rails Models
 
-### Week 7: Mar 15 - Mar 21
+### [Week 7: Mar 15 - Mar 21](https://github.com/IgnitionBoulder/Ignition2015_week7)
 * Monday 6:00pm: Introductory lecture on Javascript
 * Tuesday 6:00pm: Guest lecture by Ben Buie, Software Developer at VoltageAd
   * [Ben's LinkedIn](http://www.linkedin.com/in/benbuie/en)  
@@ -54,13 +54,16 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 
 ### SPRING BREAK
 
-### Week 8: Mar 29 - Apr 4
+### [Week 8: Mar 29 - Apr 4](https://github.com/IgnitionBoulder/Ignition2015_week8)
 * Monday 6:00pm: Introductory lecture on Bootstrap 
 * Tuesday 6:00pm: Guest Lecture by Evan Moore, gSchool student
+  * [Evan's LinkedIn](https://github.com/IgnitionBoulder/Ignition2015_week8) 
 * Thursday 6:00pm: Workshop on Bootstrap 
 
 ### Week 9: Apr 5 - Apr 11
 * Monday 6:00pm: Start Group Projects
+* Wednesday 5:30pm: CUNVC IT Track Finals
+  * Location: Wolf Law
 * Thursday 6:00pm: Group Projects
 
 ### Week 10: Apr 12 - Apr 18
