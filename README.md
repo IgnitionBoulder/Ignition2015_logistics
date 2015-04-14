@@ -68,4 +68,5 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 
 ### Week 10: Apr 12 - Apr 18
 * Monday 6:00pm: Group Projects
+  * Tuesday 6pm: Fletcher Guest Lecture on How to make a Portfolio site in an hour
 * Thursday 6:00pm: Group Projects  
