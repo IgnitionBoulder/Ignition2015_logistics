@@ -70,3 +70,8 @@ Information to help you plan and coordinate your involvement in Ignition 2015
 * Monday 6:00pm: Group Projects
   * Tuesday 6pm: Fletcher Guest Lecture on How to make a Portfolio site in an hour
 * Thursday 6:00pm: Group Projects  
+
+### Week 11: Apr 19 - Apr 25
+* Monday 6:00pm: HAPPY HOUR AT HALF FAST!
+  * Tuesday 5:45pm: CUNVC Finals at Wolf Law
+* Thursday 5:00pm: Reverse Internship Fair at Spark
